@@ -58,7 +58,7 @@ I have hands-on experience with various programming languages and technologies:
 - Languages: Python, SQL, JavaScript, C++
 - AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch, Agentic AI
 
-I thrive on solving complex problems, collaborating on innovative projects, and pushing the boundaries of technology.
+I thrive on tackling complex challenges, driving innovation through collaboration, and pushing the limits of technology to create meaningful impact.
 
 
 
