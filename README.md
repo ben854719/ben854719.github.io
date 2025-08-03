@@ -48,6 +48,13 @@ The C++ alarm system uses Agentic AI for real-time malware detection and neutral
 
 [github](https://github.com/ben854719/Alarm-System_Cybersecurity)
 
+## Technical Expertise:
+
+I have hands-on experience with various programming languages and technologies:
+- Languages: Python, SQL, JavaScript, C++
+- AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch, Agentic AI
+
+I thrive on solving complex problems, collaborating on innovative projects, and pushing the boundaries of technology.
 
 
 
