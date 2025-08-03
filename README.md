@@ -52,6 +52,17 @@ The C++ alarm system uses Agentic AI for real-time malware detection and neutral
 
 I am a lifelong learner with a passion for staying ahead of the curve. I’ve deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields like Agentic AI, large language models (LLMs), generative AI, and deep learning frameworks including TensorFlow, Keras, and PyTorch. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
 
+## Work Experience:
+
+Data Scientist (Freelance - UpWork) 
+February 2025 -  Present:
+
+•	Work on various portfolio projects based on clients’ needs, such as AI, LLM, Generative AI, and Python.
+•	Reduce project completion by 20% through efficient data modeling and cleaning utilizing Pandas for CSV files.
+•	Optimize and debug software using C++ and JavaScript to enhance code efficiency by 20%, reduce bug resolution time by
+  30%, and improve system performance metrics for client projects.
+•	Strive to meet 100% clients’ expectations and maintain customer satisfaction during meetings.
+
 ## Technical Expertise:
 
 I have hands-on experience with various programming languages and technologies:
@@ -59,6 +70,13 @@ I have hands-on experience with various programming languages and technologies:
 - AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch, Agentic AI
 
 I thrive on tackling complex challenges, driving innovation through collaboration, and pushing the limits of technology to create meaningful impact.
+
+## Contact Information:
+
+Linkedin: https://www.linkedin.com/in/ben-nguyen-77a44832/
+Gmail: nguyenben85@gmail.com
+
+
 
 
 
