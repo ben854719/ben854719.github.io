@@ -22,7 +22,7 @@ Description:
 
 The goal of the project is to develop a chatbot using Google Speech technology to analyze information about the status of the Canadian economy in 2025 (Toronto Dominion Economic). The chatbot will utilize speech recognition to provide answers based on audio files from Toronto Dominion Economics.
 
-(https://github.com/ben854719/Chatbot-Speech-Recognition-in-Generative-AI)
+[github](https://github.com/ben854719/Chatbot-Speech-Recognition-in-Generative-AI)
 
 ### Messager Mixer Inc:
 
@@ -30,7 +30,7 @@ Description:
 
 The objective of the project is to develop an encryption software application using JavaScript and Node.JS to be marketed to developers by Message Mixer Inc. The application safeguards against unauthorized access to company information.
 
-(https://github.com/ben854719/Messager-Mixer-Inc)
+[github](https://github.com/ben854719/Messager-Mixer-Inc)
 
 ### Cybersecurity Risk Agentic AI:
 
@@ -38,7 +38,7 @@ Description:
 
 The objective of the project was to develop an Agentic AI chatbot that focuses on the security risks associated with the technology. The chatbot utilized LangGraph and Gemini to extract and analyze data from the document (Coaching AI Agents: Why your next hire security hire might be an Algorithm).
 
-(https://github.com/ben854719/Cybersecurity-Risk-Agentic-AI)
+[github](https://github.com/ben854719/Cybersecurity-Risk-Agentic-AI)
 
 ### Alarm System Cybersecurity:
 
@@ -46,7 +46,7 @@ Description:
 
 The C++ alarm system uses Agentic AI for real-time malware detection and neutralization, protecting user data. It employs a generative algorithm to identify threats early, resulting 30% increase in malware detection efficiency and boosting cybersecurity analysts' efficiency in handling emerging risks.
 
-(https://github.com/ben854719/Alarm-System_Cybersecurity)
+[github](https://github.com/ben854719/Alarm-System_Cybersecurity)
 
 
 
