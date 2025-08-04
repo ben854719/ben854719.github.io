@@ -1,6 +1,6 @@
 # About Me
 
-I am Ben, a freelance data scientist on UpWork with work experience such as the private sector, non-profits organizations, and the Canadian government related to technology. My core focus are artificial intelligence, software development, and cybersecurity. I am known for delivering data-driven solutions that directly influence and improve business strategies.
+I am Ben, a freelance data scientist on UpWork with work experience such as the private sector, non-profits organizations, and the Canadian government related to technology. My core foci are artificial intelligence, software development, and cybersecurity. I am known for delivering data-driven solutions that directly influence and improve business strategies.
 
 # Toastmaster
 
