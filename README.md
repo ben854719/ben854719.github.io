@@ -50,7 +50,7 @@ The C++ alarm system uses Agentic AI for real-time malware detection and neutral
 
 ## Continuous learning:
 
-I am a lifelong learner with a passion for staying ahead of the curve. I’ve deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields like Agentic AI, large language models (LLMs), generative AI, and deep learning frameworks including TensorFlow, Keras, and PyTorch. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
+I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), generative AI, TensorFlow, Keras, and PyTorch. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
 
 ## Work Experience:
 
