@@ -91,7 +91,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - OWASP Ottawa Chapter (Cybersecurity), Voluneteer Staff:  February 2025 - Present
 
-## Video Content by Ben Nguyen on Youtubes (Cybersecurity and AI):
+## Video Content by Ben Nguyen on Youtube (Cybersecurity and AI):
 
 ## Articles in AI, Cybersecurity, and Software:
 
