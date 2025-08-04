@@ -85,7 +85,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - Codecademy:
 
--  Bootcamp in Data Science: Natural Language Processing, 2024 - Data Scientist_Natural Language Processing_Codecademy.pdf
+-  Data Science: Natural Language Processing, 2024 - Data Scientist_Natural Language Processing_Codecademy.pdf
 
 ## Volunteer:
 
