@@ -79,7 +79,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## Contact Information:
 
-[LinkedIn}(https://www.linkedin.com/in/ben-nguyen-77a44832/)
+[LinkedIn](https://www.linkedin.com/in/ben-nguyen-77a44832/)
 
 Gmail: nguyenben85@gmail.com
 
