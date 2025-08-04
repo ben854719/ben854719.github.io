@@ -55,6 +55,7 @@ I am a lifelong learner with a passion for staying ahead of the curve. I’ve de
 ## Work Experience:
 
 Data Scientist (Freelance - UpWork) 
+
 February 2025 -  Present:
 
 - Work on various portfolio projects based on clients’ needs, such as AI, LLM, Generative AI, and Python.
@@ -71,13 +72,14 @@ February 2025 -  Present:
 I have hands-on experience with various programming languages and technologies:
 
 - Languages: Python, SQL, JavaScript, C++
+  
 - AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch, Agentic AI
 
 I thrive on tackling complex challenges, driving innovation through collaboration, and pushing the limits of technology to create meaningful impact.
 
 ## Contact Information:
 
-Linkedin: https://www.linkedin.com/in/ben-nguyen-77a44832/
+[LinkedIn}(https://www.linkedin.com/in/ben-nguyen-77a44832/)
 
 Gmail: nguyenben85@gmail.com
 
