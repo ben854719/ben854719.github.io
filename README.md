@@ -4,7 +4,7 @@ I am Ben, a freelance data scientist on UpWork with work experience such as the 
 
 # Toastmaster
 
-I am a member of Toastmasters International since 2019; I currently belong to the McGill University Toastmasters Club. My journey has taken me to virtual meetings across Ottawa, Montreal, Quebec, Washington D.C., Geneva, and Japan—helping me develop a strong command of public speaking, leadership, and presentation. I am active member of Toastmasters International has developed my communication skills for a range of industries. It has improved my clarity, confidence, and adaptability when presenting complex ideas to different audiences.
+I am a member of Toastmasters International since 2019; I currently belong to the McGill University Toastmasters Club. My journey has taken me to virtual meetings across Ottawa, Montreal, Quebec, Washington D.C., Geneva, and Japan. Toastmaster helping me develop a strong command of public speaking, leadership, and presentation. It has improved my clarity, my confidence, and my adaptability when presenting complex ideas to different audiences.
 
 ## Projects:
 
