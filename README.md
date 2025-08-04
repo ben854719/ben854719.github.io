@@ -77,15 +77,35 @@ I have hands-on experience with various programming languages and technologies:
 
 I thrive on tackling complex challenges, driving innovation through collaboration, and pushing the limits of technology to create meaningful impact.
 
-## Contact Information:
+## Education:
 
-[LinkedIn](https://www.linkedin.com/in/ben-nguyen-77a44832/)
+- University of Ottawa (General Social Science) graduate: 2011 - BACHELOR DEGREE.pdf
 
-Gmail: nguyenben85@gmail.com
+- Codecadamy, Bootcamp (Data Scientist: Natural Processing Language) graduate: September 2024 - Data Scientist_Natural Language Processing_Codecademy.pdf
+
+## Volunteer:
+
+- OWASP Ottawa Chapter (Cybersecurity), Voluneteer Staff:  February 2025 - Present
+
+## Video Content by Ben Nguyen on Youtubes (Cybersecurity and AI):
+
+## Articles in AI, Cybersecurity, and Software:
+
+- [infoWorld](https://www.infoworld.com/article/4033040/apache-flink-integrates-ai-for-real-time-decision-making.html?utm_date=20250804170331&utm_campaign=Infoworld%20US%20First%20Look&utm_content=slotno-5-title-Apache%20Flink%20integrates%20AI%20for%20real-time%20decision-making&utm_term=Infoworld%20US%20Editorial%20Newsletters&utm_medium=email&utm_source=Adestra&aid=29284023&huid=)
+
+- [cio](https://www.cio.com/article/4030966/snowflake-and-databricks-vie-for-the-heart-of-enterprise-ai.html)
+
+- [cybernews](https://cybernews.com/security/surveillance-balloons-redefining-intelligence/)
 
 ## Hackaton:
 
 Hackathon 2024: NASA Space Apps Challenge_Hackalthon_2024.pdf
+
+## Contact Information:
+
+[LinkedIn](https://www.linkedin.com/in/ben-nguyen-77a44832/)
+
+Email: nguyenben85@gmail.com
 
 
 
