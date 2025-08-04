@@ -1,10 +1,10 @@
 # About Me
 
-I am Ben, a freelance data scientist on UpWork with work experience such as the private sector, the non-profits organizations, and the Canadian government related to technology. My core focus is on artificial intelligence, software development, and cybersecurity. I am known for delivering data-driven solutions that directly influence and improve business strategy.
+I am Ben, a freelance data scientist on UpWork with work experience such as the private sector, non-profits organizations, and the Canadian government related to technology. My core focus are artificial intelligence, software development, and cybersecurity. I am known for delivering data-driven solutions that directly influence and improve business strategies.
 
 # Toastmaster
 
-I am a member of Toastmasters International since 2019; I currently belong to the McGill University Toastmasters Club. My journey has taken me to virtual meetings across Ottawa, Montreal, Quebec, Washington D.C., Geneva, and Japan. Toastmaster helping me develop a strong command of public speaking, leadership, and presentation. It has improved my clarity, my confidence, and my adaptability when presenting complex ideas to different audiences.
+I am a member of Toastmasters International since 2019; I currently belong to the McGill University Toastmasters Club. My journey has taken me to virtual meetings across Ottawa, Montreal, Quebec, Washington D.C., Geneva, and Japan. Toastmaster has helpedby developing a strong command of public speaking, leadership, and presentation. It has improved my clarity, my confidence, and my adaptability when presenting complex ideas to different audiences.
 
 ## Projects:
 
@@ -20,7 +20,7 @@ The project uses PyTorch for AI applications to analyze WASDE revenue. Matplotli
 
 Description:
 
-The goal of the project is to develop a chatbot using Google Speech technology to analyze information about the status of the Canadian economy in 2025 (Toronto Dominion Economic). The chatbot will utilize speech recognition to provide answers based on audio files from Toronto Dominion Economics.
+The goal of the project is to develop a chatbot using Google Speech technology in order to analyze information about the status of the Canadian economy in 2025 (Toronto Dominion Economic). The chatbot will utilize speech recognition to provide answers based on audio files from Toronto Dominion Economics.
 
 [github](https://github.com/ben854719/Chatbot-Speech-Recognition-in-Generative-AI)
 
@@ -36,7 +36,7 @@ The objective of the project is to develop an encryption software application us
 
 Description:
 
-The objective of the project was to develop an Agentic AI chatbot that focuses on the security risks associated with the technology. The chatbot utilized LangGraph and Gemini to extract and analyze data from the document (Coaching AI Agents: Why your next hire security hire might be an Algorithm).
+The objective of the project is to develop an Agentic AI chatbot that focuses on the security risks associated with the technology. The chatbot utilizes LangGraph and Gemini to extract and analyze data from the document (Coaching AI Agents: Why Your Next Hire Security Hire Might Be An Algorithm).
 
 [github](https://github.com/ben854719/Cybersecurity-Risk-Agentic-AI)
 
@@ -44,7 +44,7 @@ The objective of the project was to develop an Agentic AI chatbot that focuses o
 
 Description:
 
-The C++ alarm system uses Agentic AI for real-time malware detection and neutralization, protecting user data. It employs a generative algorithm to identify threats early, resulting 30% increase in malware detection efficiency and boosting cybersecurity analysts' efficiency in handling emerging risks.
+The C++ alarm system uses Agentic AI for real-time malware detection and neutralization, protecting users' data. It employs a generative algorithm to identify threats early, resulting in an 30% increase in malware detection efficiency and boosting cybersecurity analysts' efficiency in handling emerging risks.
 
 [github](https://github.com/ben854719/Alarm-System_Cybersecurity)
 
@@ -66,7 +66,7 @@ February 2025 -  Present:
 
 - Work on various portfolio projects based on clients’ needs, such as AI, LLM, Generative AI, and Python.
 
-- Reduce project completion by 20% through efficient data modeling and cleaning utilizing Pandas for CSV files.
+- Increase project completion by 20% through efficient data modeling and cleaning utilizing Pandas for CSV files.
 
 - Optimize and debug software using C++ and JavaScript to enhance code efficiency by 20%, reduce bug resolution time by
   30%, and improve system performance metrics for client projects.
@@ -97,7 +97,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - OWASP Ottawa Chapter (Cybersecurity), Voluneteer Staff:  February 2025 - Present
 
-## Video Content by Ben Nguyen on Youtube (Cybersecurity and AI):
+## Video Content by Ben Nguyen on YouTube (Cybersecurity and AI):
 
 ## Articles in AI, Cybersecurity, and Software:
 
