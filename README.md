@@ -79,9 +79,13 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## Education:
 
-- University of Ottawa (General Social Science) graduate: 2011 - BACHELOR DEGREE.pdf
+- University of Ottawa: 
 
-- Codecadamy, Bootcamp (Data Scientist: Natural Processing Language) graduate: September 2024 - Data Scientist_Natural Language Processing_Codecademy.pdf
+ - Bachelor of General Social Science, 2011 - BACHELOR DEGREE.pdf
+
+- Codecademy:
+
+  - Bootcamp in Data Science: Natural Language Processing, 2024 - Data Scientist_Natural Language Processing_Codecademy.pdf
 
 ## Volunteer:
 
