@@ -52,7 +52,9 @@ The C++ alarm system uses Agentic AI for real-time malware detection and neutral
 
 Description:
 
+The project will use Python based system enables remote start of autonomous vehicles via secure Bluetooth, achieving biometric authentication accuracy over 98% (PySyft), anomaly detection precision of 95% (PyTorch), and diagnostic refresh rates every 5 seconds (Plotly), with multilingual Agentic AI reports maintaining over 97% recognition and translation accuracy across English, French, and Spanish.
 
+[github](https://github.com/ben854719/DriveSmart-An-Autonomous-Mobility-Solution)
 
 ## Continuous learning:
 
