@@ -109,6 +109,8 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - [cybernews](https://cybernews.com/security/surveillance-balloons-redefining-intelligence/)
 
+- [networkworld](https://www.networkworld.com/article/4034136/broadcom-expands-ai-networking-portfolio-with-jericho4-ethernet-fabric-router.html)
+
 ## Hackaton:
 
 Hackathon 2024: NASA Space Apps Challenge_Hackalthon_2024.pdf
