@@ -79,9 +79,9 @@ February 2025 -  Present:
 
 I have hands-on experience with various programming languages and technologies:
 
-- Languages: Python, SQL, JavaScript, C++, Git, GitHub
+- Languages: Python, SQL, JavaScript, C++, Git, GitHub.
   
-- AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch, Agentic AI
+- AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch, Agentic AI.
 
 I thrive on tackling complex challenges, driving innovation through collaboration, and pushing the limits of technology to create meaningful impact.
 
