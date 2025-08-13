@@ -111,7 +111,9 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - [networkworld](https://www.networkworld.com/article/4034136/broadcom-expands-ai-networking-portfolio-with-jericho4-ethernet-fabric-router.html)
 
-## Hackaton:
+- [cio](https://www.cio.com/video/4035142/relationalai-transforms-enterprise-data-in-snowflake-via-genai-knowledge-graphs.html?utm_date=20250813142212&utm_campaign=Infoworld%20US%20First%20Look&utm_content=slotno-2-title-How%20RelationalAI%20Uses%20Knowledge%20Graphs%20and%20GenAI%20to%20Transform%20Enterprise%20Data%20in%20Snowflake&utm_term=Infoworld%20US%20Editorial%20Newsletters&utm_medium=email&utm_source=Adestra&aid=29284023&huid=)
+
+## Hackathon:
 
 Hackathon 2024: NASA Space Apps Challenge_Hackalthon_2024.pdf
 
