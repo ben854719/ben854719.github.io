@@ -115,6 +115,8 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - [built in](https://builtin.com/artificial-intelligence/artificial-general-intelligence-job-market-impact?i=4a5e885e-ddc0-4a6c-9e04-7092589560a1&utm_campaign=content_newsletter&utm_medium=email&utm_source=ses)
 
+- [hackaday](https://hackaday.com/2025/08/16/from-smartphone-to-a-home-server/)
+
 ## Hackathon:
 
 Hackathon 2024: NASA Space Apps Challenge_Hackalthon_2024.pdf
