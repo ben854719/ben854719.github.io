@@ -117,6 +117,8 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - [hackaday](https://hackaday.com/2025/08/16/from-smartphone-to-a-home-server/)
 
+- [networkworld](https://www.networkworld.com/article/4044525/nvidia-turns-to-software-to-speed-up-its-data-center-networking-hardware-for-ai.html?utm_date=20250825190932&utm_campaign=Network%20World%20US%20All%20Things%20Networking&utm_content=slotno-1-readmore-New%20algorithms%20will%20fine-tune%20the%20performance%20of%20Nvidia%20Spectrum-X%20systems%20used%20to%20connect%20GPUs%20across%20multiple%20servers%20and%20even%20between%20data%20centers.%20&utm_term=Networkworld%20US%20Editorial%20Newsletters&utm_medium=email&utm_source=Adestra&aid=29284023&huid=)
+
 ## Hackathon:
 
 Hackathon 2024: NASA Space Apps Challenge_Hackalthon_2024.pdf
