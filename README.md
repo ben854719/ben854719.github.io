@@ -56,6 +56,14 @@ This project delivers a Bluetooth-enabled application for secure, remote activat
 
 [github](https://github.com/ben854719/DriveSmart-An-Autonomous-Mobility-Solution)
 
+### Patient Electronic Health Record System
+
+Description:
+
+The application utilises AI tools to assist in the clinical decision-making, employing Pandas for data extraction, processing over 1 million patient records, PyTorch for medication recommendations with an accuracy rate of 92%, and Agentic AI for bilingual reporting, generating reports in both English and French, supporting Canadian doctors in prescribing treatments suited to patient needs.
+
+[github](https://github.com/ben854719/Patient-Electronic-Health-Record-System/tree/main)
+
 ## Continuous learning:
 
 I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), generative AI, TensorFlow, Keras, and PyTorch. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
