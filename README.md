@@ -135,7 +135,7 @@ Hackathon 2024: NASA Space Apps Challenge_Hackalthon_2024.pdf
 
 Hackathon 2025 (AI Thinker Ottawa - Build  to Convert):
 
-Our team has launched a website that offers affordable meal plan subscriptions. We have also develop an Avatar Agentic AI where the user interacts with the LLM model by asking questions about the meal plans pricing in English or French.
+Our team has launched a website offering affordable meal plan subscriptions, supported by an Avatar Agentic AI that allows users to ask questions about the price of the meals in English or French.
 
 ## Contact Information
 
