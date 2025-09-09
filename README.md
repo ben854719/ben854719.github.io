@@ -131,7 +131,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## Hackathon:
 
-Hackathon 2024: NASA Space Apps Challenge_Hackalthon_2024.pdf:
+Hackathon 2024 (NASA Space Apps Challenge_Hackalthon_2024.pdf):
 
 I was the team leader for my team’s project which was to examine the impact of flooding in the different regions of Canada.
 
