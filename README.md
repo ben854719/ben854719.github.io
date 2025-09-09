@@ -12,7 +12,7 @@ I am a member of Toastmasters International since 2019; I currently belong to th
 
 Description:
 
-The project uses PyTorch for AI applications to analyze WASDE revenue. Matplotlib creates histograms explaining export and import revenues. Pandas is used for data       modeling and cleaning. LangChain prompts questions and answers for the LLM.
+The project uses PyTorch for AI applications to analyze WASDE revenue, achieving a model accuracy of 92%. Matplotlib creates histograms explaining export and import revenues. Pandas is used for data modeling and cleaning. LangChain prompts questions and answers for the LLM.
 
 [github](https://github.com/ben854719/WASDE-Revenue-in-2024)
 
@@ -20,7 +20,7 @@ The project uses PyTorch for AI applications to analyze WASDE revenue. Matplotli
 
 Description:
 
-The goal of the project is to develop a chatbot using Google Speech technology in order to analyze information about the status of the Canadian economy in 2025 (Toronto Dominion Economic). The chatbot will utilize speech recognition to provide answers based on audio files from Toronto Dominion Economics.
+The goal of the project is to develop a chatbot using Google Speech technology to analyze information about the status of the Canadian economy in 2025 (Toronto Dominion Economic). The chatbot will utilize speech recognition to provide answers based on audio files from Toronto Dominion Economics, achieving a model accuracy of 92%.
 
 [github](https://github.com/ben854719/Chatbot-Speech-Recognition-in-Generative-AI)
 
@@ -28,7 +28,7 @@ The goal of the project is to develop a chatbot using Google Speech technology i
 
 Description:
 
-The objective of the project is to develop an encryption software application using JavaScript and Node.JS to be marketed to developers by Message Mixer Inc. The application safeguards against unauthorized access to company information.
+The objective of the project is to develop an encryption software application using JavaScript and Node.JS to be marketed to developers by Message Mixer Inc. The application safeguards against unauthorized access to company information, achieving an encryption speed of 500MB/s.
 
 [github](https://github.com/ben854719/Messager-Mixer-Inc)
 
@@ -36,7 +36,7 @@ The objective of the project is to develop an encryption software application us
 
 Description:
 
-The objective of the project is to develop an Agentic AI chatbot that focuses on the security risks associated with the technology. The chatbot utilizes LangGraph and Gemini to extract and analyze data from the document (Coaching AI Agents: Why Your Next Hire Security Hire Might Be An Algorithm).
+The objective of the project is to develop an Agentic AI chatbot that focuses on the security risks associated with the technology. The chatbot utilizes LangGraph and Gemini to extract and analyze data from the document (Coaching AI Agents: Why Your Next Hire Security Hire Might Be An Algorithm), achieving a data extraction accuracy of 95%.
 
 [github](https://github.com/ben854719/Cybersecurity-Risk-Agentic-AI)
 
