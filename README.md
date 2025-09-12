@@ -107,27 +107,8 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - OWASP Ottawa Chapter (Cybersecurity), Volunteer Staff:  February 2025 - Present
 
-## Video Content by Ben Nguyen on YouTube (Cybersecurity and AI):
+## Video Content by Ben Nguyen on YouTube (Cybersecurity and AI - Coming Soon):
 
-## Articles in AI, Cybersecurity, and Software:
-
-- [infoWorld](https://www.infoworld.com/article/4033040/apache-flink-integrates-ai-for-real-time-decision-making.html?utm_date=20250804170331&utm_campaign=Infoworld%20US%20First%20Look&utm_content=slotno-5-title-Apache%20Flink%20integrates%20AI%20for%20real-time%20decision-making&utm_term=Infoworld%20US%20Editorial%20Newsletters&utm_medium=email&utm_source=Adestra&aid=29284023&huid=)
-
-- [cio](https://www.cio.com/article/4030966/snowflake-and-databricks-vie-for-the-heart-of-enterprise-ai.html)
-
-- [cybernews](https://cybernews.com/security/surveillance-balloons-redefining-intelligence/)
-
-- [networkworld](https://www.networkworld.com/article/4034136/broadcom-expands-ai-networking-portfolio-with-jericho4-ethernet-fabric-router.html)
-
-- [cio](https://www.cio.com/video/4035142/relationalai-transforms-enterprise-data-in-snowflake-via-genai-knowledge-graphs.html?utm_date=20250813142212&utm_campaign=Infoworld%20US%20First%20Look&utm_content=slotno-2-title-How%20RelationalAI%20Uses%20Knowledge%20Graphs%20and%20GenAI%20to%20Transform%20Enterprise%20Data%20in%20Snowflake&utm_term=Infoworld%20US%20Editorial%20Newsletters&utm_medium=email&utm_source=Adestra&aid=29284023&huid=)
-
-- [built in](https://builtin.com/artificial-intelligence/artificial-general-intelligence-job-market-impact?i=4a5e885e-ddc0-4a6c-9e04-7092589560a1&utm_campaign=content_newsletter&utm_medium=email&utm_source=ses)
-
-- [hackaday](https://hackaday.com/2025/08/16/from-smartphone-to-a-home-server/)
-
-- [networkworld](https://www.networkworld.com/article/4044525/nvidia-turns-to-software-to-speed-up-its-data-center-networking-hardware-for-ai.html?utm_date=20250825190932&utm_campaign=Network%20World%20US%20All%20Things%20Networking&utm_content=slotno-1-readmore-New%20algorithms%20will%20fine-tune%20the%20performance%20of%20Nvidia%20Spectrum-X%20systems%20used%20to%20connect%20GPUs%20across%20multiple%20servers%20and%20even%20between%20data%20centers.%20&utm_term=Networkworld%20US%20Editorial%20Newsletters&utm_medium=email&utm_source=Adestra&aid=29284023&huid=)
-
-- [InfoWorld](https://www.infoworld.com/article/4052376/databricks-adds-data-science-agent-to-automate-analytics-tasks.html)
 
 ## Hackathon:
 
