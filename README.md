@@ -109,7 +109,6 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## Video Content by Ben Nguyen on YouTube (Cybersecurity and AI - Coming Soon):
 
-
 ## Hackathon:
 
 Hackathon 2024 (NASA Space Apps Challenge_Hackalthon_2024.pdf):
