@@ -105,7 +105,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## Volunteer:
 
-# OWASP Ottawa Chapter (Cybersecurity), Volunteer Staff:  February 2025 - Present:
+## OWASP Ottawa Chapter (Cybersecurity), Volunteer Staff:  February 2025 - Present:
 
 - Greeted guests and introduced them to the chapter’s mission and events.
 
