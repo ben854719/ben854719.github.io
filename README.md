@@ -105,9 +105,16 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## Volunteer:
 
-- OWASP Ottawa Chapter (Cybersecurity), Volunteer Staff:  February 2025 - Present
+# OWASP Ottawa Chapter (Cybersecurity), Volunteer Staff:  February 2025 - Present:
+
+- Greeted guests and introduced them to the chapter’s mission and events.
+
+- Assisted the leaders with event setup and logistics before the meetings.
+
+- Helped to  create a welcoming environment for attendees and supported community     engagement.
 
 ## Video Content by Ben Nguyen on YouTube (Cybersecurity and AI - Coming Soon):
+
 
 
 ## Hackathon:
