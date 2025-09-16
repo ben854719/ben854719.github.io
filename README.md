@@ -48,7 +48,7 @@ The C++ alarm system uses Agentic AI for real-time malware detection and neutral
 
 [github](https://github.com/ben854719/Alarm-System_Cybersecurity)
 
-### DriveSmart: An Autonomous Mobility Solution
+### DriveSmart: An Autonomous Mobility Solution:
 
 Description:
 
@@ -56,7 +56,7 @@ This project delivers a Bluetooth-enabled application for secure, remote activat
 
 [github](https://github.com/ben854719/DriveSmart-An-Autonomous-Mobility-Solution)
 
-### Patient Electronic Health Record System
+### Patient Electronic Health Record System:
 
 Description:
 
@@ -64,7 +64,7 @@ The application utilises AI tools to assist in the clinical decision-making, emp
 
 [github](https://github.com/ben854719/Patient-Electronic-Health-Record-System/tree/main)
 
-### Tranquille Garden Text Application
+### Tranquille Garden Text Application:
 
 Description:
 
