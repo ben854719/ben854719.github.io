@@ -64,6 +64,14 @@ The application utilises AI tools to assist in the clinical decision-making, emp
 
 [github](https://github.com/ben854719/Patient-Electronic-Health-Record-System/tree/main)
 
+### Tranquille Garden Text Application
+
+Description:
+
+The application is developed with Python and features customizable fonts and adaptive color schemes to enhance readability. User data is secured using cryptographic methods, providing a high level of security. The integrated agentic AI supports document translation between English, French, and Spanish, reporting an accuracy rate of 98%.
+
+[github](https://github.com/ben854719/Tranquille-Garden-Text-Application)
+
 ## Continuous learning:
 
 I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), generative AI, TensorFlow, Keras, and PyTorch. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
