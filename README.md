@@ -82,7 +82,7 @@ Data Scientist (Freelance - UpWork)
 
 February 2025 -  Present:
 
--	Delivered AI, LLM, Generative AI, and Python solutions for a diverse client projects.
+-	Delivered AI, LLM, Generative AI, and Python solutions for a diverse clients projects.
   
 - Achieved a 20% reduction in project timelines through data modeling and data cleaning using Pandas for CSV files.
   
