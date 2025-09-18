@@ -82,14 +82,13 @@ Data Scientist (Freelance - UpWork)
 
 February 2025 -  Present:
 
-- Work on various portfolio projects based on clients’ needs, such as AI, LLM, Generative AI, and Python.
-
-- Increase project completion by 20% through efficient data modeling and cleaning utilizing Pandas for CSV files.
-
-- Optimize and debug software using C++ and JavaScript to enhance code efficiency by 20%, reduce bug resolution time by
-  30%, and improve system performance metrics for client projects.
+-	Delivered AI, LLM, Generative AI, and Python solutions for diverse client projects.
   
-- Strive to meet 100% clients’ expectations and maintain customer satisfaction during meetings.
+- Achieved a 20% reduction in project timelines through data modeling and data cleaning using Pandas for CSV files.
+  
+-	Built and optimized JavaScript based web applications for client-facing platforms, enhancing UI responsiveness.
+  
+-	Developed and debugged C++ software systems for client data processing needs, improving code efficiency by 20% and reducing by 30%.
 
 ## Technical Expertise:
 
