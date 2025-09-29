@@ -122,7 +122,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## Video Content by Ben Nguyen on YouTube (Cybersecurity, AI, and Software):
 
-[YouTube](https://youtu.be/DxaOqfEN7ZM)
+- [YouTube](https://youtu.be/DxaOqfEN7ZM)
 
 ## Hackathon:
 
