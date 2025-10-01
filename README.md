@@ -68,7 +68,7 @@ The application is developed with Python and features customizable fonts and ada
 
 Description:
 
-An intent-driven AI assistant supports daily tasks, detects prompt vulnerabilities, and delivers multilingual diagnostic reports via a Node.jsand Python backend and PyTorch-powered intent engine, achieving ≥90% intent accuracy, ≤500ms latency, ≥60% daily engagement, and ≥95% translation precision.
+An intent-driven AI assistant supports daily tasks, detects prompt vulnerabilities, and delivers multilingual diagnostic reports via a Node.js-Python backend and PyTorch-powered intent engine, achieving ≥90% intent accuracy, ≤500ms latency, ≥60% daily engagement, and ≥95% translation precision.
 
 [github](https://github.com/ben854719/AI-Gateway-Evolution-Moving-from-Requests-to-Results-via-Intent)
 
