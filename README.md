@@ -24,14 +24,6 @@ The goal of the project is to develop a chatbot using Google Speech technology t
 
 [github](https://github.com/ben854719/Chatbot-Speech-Recognition-in-Generative-AI)
 
-### Messager Mixer Inc:
-
-Description:
-
-The objective of the project is to develop an encryption software application using JavaScript and Node.JS to be marketed to developers by Message Mixer Inc. The application safeguards against unauthorized access to company information, achieving an encryption speed of 500MB/s.
-
-[github](https://github.com/ben854719/Messager-Mixer-Inc)
-
 ### Cybersecurity Risk Agentic AI:
 
 Description:
@@ -71,6 +63,14 @@ Description:
 The application is developed with Python and features customizable fonts and adaptive color schemes to enhance readability. User data is secured using cryptographic methods, providing a high level of security. The integrated agentic AI supports document translation between English, French, and Spanish, reporting an accuracy rate of 98%.
 
 [github](https://github.com/ben854719/Tranquille-Garden-Text-Application)
+
+### AI Gateway Evolution: Moving from Requests to Results via Intent:
+
+Description:
+
+An intent-driven AI assistant supports daily tasks, detects prompt vulnerabilities, and delivers multilingual diagnostic reports via a Node.jsand Python backend and PyTorch-powered intent engine, achieving ≥90% intent accuracy, ≤500ms latency, ≥60% daily engagement, and ≥95% translation precision.
+
+[github](https://github.com/ben854719/AI-Gateway-Evolution-Moving-from-Requests-to-Results-via-Intent)
 
 ## Continuous learning:
 
