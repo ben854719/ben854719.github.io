@@ -131,7 +131,7 @@ Our team has launched a website offering affordable meal plan subscriptions, sup
 
 Hackathon 2024 (NASA Space Apps Challenge_Hackalthon_2024.pdf):
 
-I led to assess flood impacts across Canada by utilising ESRI mapping for geospatial visualisation, a modular backend for data processing, and a web-based frontend designed for stakeholder engagement during a Hackathon. 
+I led a team to assess flood impacts across Canada by utilising ESRI mapping for geospatial visualisation, a modular backend for data processing, and a web-based frontend designed for stakeholder engagement. 
 
 ## Contact Information:
 
