@@ -72,6 +72,14 @@ An intent-driven AI assistant supports daily tasks, detects prompt vulnerabiliti
 
 [github](https://github.com/ben854719/AI-Gateway-Evolution-Moving-from-Requests-to-Results-via-Intent)
 
+### Trade Transfer Workflow Optimizer:
+
+Description:
+
+The AI-powered portfolio assistant utilises secure RS256 encryption, sentiment overlays, and avatar-based insights to provide robust and reliable analysis. It delivers results in under two seconds with emotionally intelligent recommendations, achieving a minimum of 95% accuracy and 80% user engagement.
+
+[github](https://github.com/ben854719/Trade-Transfer-Workflow-Optimizer/tree/main)
+
 ## Continuous learning:
 
 I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), generative AI, TensorFlow, Keras, and PyTorch. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
