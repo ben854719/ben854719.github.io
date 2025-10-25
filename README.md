@@ -136,7 +136,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 Hackathon 2025 (AI Tinkeres Ottawa - Build  to Convert):
 
-Our team has launched a website offering affordable meal plan subscriptions, supported by an Avatar Agentic AI that allows users to ask questions about the price of the meals in English or French.
+Our team has launched a website offering affordable meal plan subscriptions, supported by an Agentic AI Avatar that allows users to ask questions about the price of the meals in English or French.
 
 Hackathon 2024 (NASA Space Apps Challenge_Hackalthon_2024.pdf):
 
