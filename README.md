@@ -16,14 +16,6 @@ The project uses PyTorch for AI applications to analyze WASDE revenue, achieving
 
 [github](https://github.com/ben854719/WASDE-Revenue-in-2024)
 
-### Chatbot Speech Recognition in Generative AI:
-
-Description:
-
-The goal of the project is to develop a chatbot using Google Speech technology to analyze information about the status of the Canadian economy in 2025 (Toronto Dominion Economic). The chatbot will utilize speech recognition to provide answers based on audio files from Toronto Dominion Economics, achieving a model accuracy of 92%.
-
-[github](https://github.com/ben854719/Chatbot-Speech-Recognition-in-Generative-AI)
-
 ### Cybersecurity Risk Agentic AI:
 
 Description:
