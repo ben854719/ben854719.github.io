@@ -80,6 +80,15 @@ The AI-powered portfolio assistant utilises secure RS256 encryption, sentiment o
 
 [github](https://github.com/ben854719/Trade-Transfer-Workflow-Optimizer/tree/main)
 
+
+### Biometric Aware Fraud Risk Dashboard with Agentic AI Avatar:
+
+Description:
+
+This application creates biometric signals, behavioral analytics, and an Agentic AI Avatar power this real-time fraud detection dashboard. It delivers sub-2-second latency, boosts precision by 42%, and cuts manual review time by 60%. More than detection—it guides compliance teams through risk with avatar-led clarity.
+
+[github](https://github.com/ben854719/Biometric-Aware-Fraud-Risk-Dashboard-with-Agentic-AI)
+
 ## Continuous learning:
 
 I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), generative AI, TensorFlow, Keras, and PyTorch. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
