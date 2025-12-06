@@ -81,7 +81,7 @@ This application creates biometric signals, behavioral analytics, and an Agentic
 
 [github](https://github.com/ben854719/Biometric-Aware-Fraud-Risk-Dashboard-with-Agentic-AI)
 
-### rctic Sentinel: AI Native ISR Dashboard:
+### Arctic Sentinel: AI Native ISR Dashboard:
 
 Description:
 
