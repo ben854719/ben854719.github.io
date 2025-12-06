@@ -81,6 +81,14 @@ This application creates biometric signals, behavioral analytics, and an Agentic
 
 [github](https://github.com/ben854719/Biometric-Aware-Fraud-Risk-Dashboard-with-Agentic-AI)
 
+### rctic Sentinel: AI Native ISR Dashboard:
+
+Description:
+
+The application uses an ISR dashboard provides secure telemetry with response times under one second, achieves over 95% anomaly detection accuracy, and reduces workload by 40% through machine learning forecasts and three-dimensional overlays—enabling more informed and timely decision-making.
+
+[github](https://github.com/ben854719/Arctic-Sentinel-AI-Native-ISR-Dashboard)
+
 ## Continuous learning:
 
 I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), generative AI, TensorFlow, Keras, and PyTorch. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
