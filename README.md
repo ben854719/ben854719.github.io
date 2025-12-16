@@ -117,6 +117,10 @@ I have hands-on experience with various programming languages and technologies:
 
 I thrive on tackling complex challenges, driving innovation through collaboration, and pushing the limits of technology to create meaningful impact.
 
+## AWS Cloud:
+
+- Introduction to Cloud 101 (Currently Learning - AWS Educate)
+
 ## Education:
 
 - University of Ottawa: 
