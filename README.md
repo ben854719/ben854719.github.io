@@ -119,7 +119,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## AWS Cloud:
 
-- Introduction to Cloud 101 (Cloud 101)[https://github.com/ben854719/ben854719/blob/e2b1857a87ac49babad1bead457c4d62e3cd76b7/aws-educate-introduction-to-cloud-101-training-badg.png]
+- Introduction to Cloud 101 [Cloud 101](aws-educate-introduction-to-cloud-101-training-badg.png)
 
 ## Education:
 
