@@ -119,7 +119,11 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## AWS Cloud:
 
-- Introduction to Cloud 101 [github](aws-educate-introduction-to-cloud-101-training-badg.png)
+- Introduction to Cloud 101 [AWS Educate]:
+
+  The course focuses on AWS, AWS Cloud, AWS Cloud Computing, and Cloud Foundations.
+
+- Introduction of Generative Articifial Intelligence (Currently Learning)
 
 ## Education:
 
