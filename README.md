@@ -119,11 +119,15 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 ## AWS Cloud:
 
-- Introduction to Cloud 101 [AWS Educate]:
+- Introduction to Cloud 101 [AWS Educate - December 2025]:
 
   The course focuses on AWS Cloud, Cloud Computing, and Cloud Foundations.
 
-- Introduction of Generative Articifial Intelligence (Currently Learning)
+- Introduction of Generative Articifial Intelligence [AWS Educate - December 2025]:
+
+- The course focuses on AWS Cloud, Generative AI, AI and Machine Learning foundations.
+
+- Getting Started with Networking [Currently Learning - AWS Educate, December 2025]:
 
 ## Education:
 
