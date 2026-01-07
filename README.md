@@ -121,7 +121,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - Introduction to Cloud 101 [AWS Educate, 2025]:
 
-  The course focuses on AWS Cloud, Cloud Computing, and Cloud Foundations.
+- The course focuses on AWS Cloud, Cloud Computing, and Cloud Foundations.
 
 - Introduction of Generative Articifial Intelligence [AWS Educate, 2025]:
 
