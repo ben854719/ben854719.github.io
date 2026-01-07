@@ -127,7 +127,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - The course focuses on AWS Cloud, Generative AI, AI and Machine Learning foundations.
 
-- Getting Started with Networking [AWS Educate, 2025]:
+- Getting Started with Networking [AWS Educate, 2026]:
 
 - The course focuses on the network of AWS cloud, Subnets, AWS Services, and Amazon VPC.
 
