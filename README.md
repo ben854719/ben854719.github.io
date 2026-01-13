@@ -89,6 +89,14 @@ The application uses an ISR dashboard provides secure telemetry with response ti
 
 [github](https://github.com/ben854719/Arctic-Sentinel-AI-Native-ISR-Dashboard)
 
+### Arctic BlueSense: AI Powered Ocean Monitoring
+
+Description:
+
+An AI system for the Canadian Arctic delivers sub second preprocessing, >95% anomaly detection accuracy, and 100% audit trace coverage secured with RS256 encryption. It monitors vessel activity and climate driven water changes while an agentic assistant provides real time alerts and explanations. Built for startups, government agencies, defense organizations, and researchers.
+
+[github](https://github.com/ben854719/Arctic-BlueSense-AI-Powered-Ocean-Monitoring/tree/main)
+
 ## Continuous learning:
 
 I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), generative AI, TensorFlow, Keras, and PyTorch. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
