@@ -159,7 +159,7 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - Helped to  create a welcoming environment for attendees and supported community engagement.
 
-## Dev.to (Articles and projects):
+## Dev.to (Articles and Projects):
 
 [dev.to](https://dev.to/benjamin_nguyen_8ca6ff360)
 
