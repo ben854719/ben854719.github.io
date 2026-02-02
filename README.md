@@ -157,7 +157,11 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - Assisted the leaders with event setup and logistics before the meetings.
 
-- Helped to  create a welcoming environment for attendees and supported community     engagement.
+- Helped to  create a welcoming environment for attendees and supported community engagement.
+
+## Dev.to (Articles and projects):
+
+[dev.to](https://dev.to/benjamin_nguyen_8ca6ff360)
 
 ## Video Content by Ben Nguyen on YouTube (Cybersecurity, AI, and Software):
 
