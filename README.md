@@ -8,14 +8,6 @@ I am a member of Toastmasters International since 2019; I currently belong to th
 
 ## Projects:
 
-### WASDE REVENUE IN 2024:
-
-Description:
-
-The project uses PyTorch for AI applications to analyze WASDE revenue, achieving a model accuracy of 92%. Matplotlib creates histograms explaining export and import revenues. Pandas is used for data modeling and cleaning. LangChain prompts questions and answers for the LLM.
-
-[github](https://github.com/ben854719/WASDE-Revenue-in-2024)
-
 ### Cybersecurity Risk Agentic AI:
 
 Description:
@@ -89,13 +81,21 @@ The application uses an ISR dashboard provides secure telemetry with response ti
 
 [github](https://github.com/ben854719/Arctic-Sentinel-AI-Native-ISR-Dashboard)
 
-### Arctic BlueSense: AI Powered Ocean Monitoring
+### Arctic BlueSense: AI Powered Ocean Monitoring:
 
 Description:
 
 An AI system for the Canadian Arctic delivers sub second preprocessing, >95% anomaly detection accuracy, and 100% audit trace coverage secured with RS256 encryption. It monitors vessel activity and climate driven water changes while an agentic assistant provides real time alerts and explanations. Built for startups, government agencies, defense organizations, and researchers.
 
 [github](https://github.com/ben854719/Arctic-BlueSense-AI-Powered-Ocean-Monitoring)
+
+### System Stability and Performance Analysis:
+
+Description:
+
+The system uses AWS Lambda and Agentic AI to diagnose issues in real time, secure logins with RS256, and restore sessions automatically. It delivers 98%+ crash free sessions, a 15% rise in login success, faster recoveries, 40% automated fixes, and a 30% drop in support tickets—boosting reliability, security, and user trust.
+
+[github](https://github.com/ben854719/System-Stability-and-Performance-Analysis)
 
 ## Continuous learning:
 
