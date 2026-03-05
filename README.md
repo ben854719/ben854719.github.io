@@ -8,14 +8,6 @@ I am a member of Toastmasters International since 2019; I currently belong to th
 
 ## Projects:
 
-### Cybersecurity Risk Agentic AI:
-
-Description:
-
-The objective of the project is to develop an Agentic AI chatbot that focuses on the security risks associated with the technology. The chatbot utilizes LangGraph and Gemini to extract and analyze data from the document (Coaching AI Agents: Why Your Next Hire Security Hire Might Be An Algorithm), achieving a data extraction accuracy of 95%.
-
-[github](https://github.com/ben854719/Cybersecurity-Risk-Agentic-AI)
-
 ### Alarm System Cybersecurity:
 
 Description:
@@ -96,6 +88,14 @@ Description:
 The system uses AWS Lambda and Agentic AI to diagnose issues in real time, secure logins with RS256, and restore sessions automatically. It delivers 98%+ crash free sessions, a 15% rise in login success, faster recoveries, 40% automated fixes, and a 30% drop in support tickets—boosting reliability, security, and user trust.
 
 [github](https://github.com/ben854719/System-Stability-and-Performance-Analysis)
+
+### Sentinel Threat Wall:
+
+Description:
+
+Sentinel ThreatWall combines a fast C++ firewall with AI-based anomaly detection, using real-time inspection and graph analysis to reveal hidden traffic patterns. Its agentic layer interprets anomalies, correlates signals, and suggests adaptive defenses, employing RS256-signed telemetry and rule distribution for security. The platform offers sub-5 ms processing, over 92% classification accuracy, 95% clustering resolution, and maintains throughput above 1 Gbps.
+
+[github](https://github.com/ben854719/Sentinel-ThreatWall)
 
 ## Continuous learning:
 
