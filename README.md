@@ -169,6 +169,8 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 [YouTube](https://youtu.be/E8wbD7TKmTY)
 
+[Youtube](https://youtu.be/EStCii7jzAw)
+
 ## Hackathon:
 
 Hackathon 2025 (AI Tinkeres Ottawa - Build  to Convert):
