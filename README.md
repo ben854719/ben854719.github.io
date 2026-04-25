@@ -8,14 +8,6 @@ I am a member of Toastmasters International since 2019; I currently belong to th
 
 ## Projects:
 
-### Alarm System Cybersecurity:
-
-Description:
-
-The C++ alarm system uses Agentic AI for real-time malware detection and neutralization, protecting users' data. It employs a generative algorithm to identify threats early, resulting in an 30% increase in malware detection efficiency and boosting cybersecurity analysts' efficiency in handling emerging risks.
-
-[github](https://github.com/ben854719/Alarm-System_Cybersecurity)
-
 ### DriveSmart: An Autonomous Mobility Solution:
 
 Description:
@@ -24,22 +16,6 @@ This project delivers a Bluetooth-enabled application for secure, remote activat
 
 [github](https://github.com/ben854719/DriveSmart-An-Autonomous-Mobility-Solution)
 
-### Patient Electronic Health Record System:
-
-Description:
-
-The application utilises AI tools to assist in the clinical decision-making, employing Pandas for data extraction, processing over 1 million patient records, PyTorch for medication recommendations with an accuracy rate of 92%, and Agentic AI for bilingual reporting, generating reports in both English and French, supporting Canadian doctors in prescribing treatments suited to patient needs.
-
-[github](https://github.com/ben854719/Patient-Electronic-Health-Record-System/tree/main)
-
-### Tranquille Garden Text Application:
-
-Description:
-
-The application is developed with Python and features customizable fonts and adaptive color schemes to enhance readability. User data is secured using cryptographic methods, providing a high level of security. The integrated agentic AI supports document translation between English, French, and Spanish, reporting an accuracy rate of 98%.
-
-[github](https://github.com/ben854719/Tranquille-Garden-Text-Application)
-
 ### AI Gateway Evolution: Moving from Requests to Results via Intent:
 
 Description:
@@ -47,15 +23,6 @@ Description:
 An intent-driven AI assistant supports daily tasks, detects prompt vulnerabilities, and delivers multilingual diagnostic reports via a Node.js-Python backend and PyTorch-powered intent engine, achieving ≥90% intent accuracy, ≤500ms latency, ≥60% daily engagement, and ≥95% translation precision.
 
 [github](https://github.com/ben854719/AI-Gateway-Evolution-Moving-from-Requests-to-Results-via-Intent)
-
-### Trade Transfer Workflow Optimizer:
-
-Description:
-
-The AI-powered portfolio assistant utilises secure RS256 encryption, sentiment overlays, and avatar-based insights to provide robust and reliable analysis. It delivers results in under two seconds with emotionally intelligent recommendations, achieving a minimum of 95% accuracy and 80% user engagement.
-
-[github](https://github.com/ben854719/Trade-Transfer-Workflow-Optimizer/tree/main)
-
 
 ### Biometric Aware Fraud Risk Dashboard with Agentic AI Avatar:
 
