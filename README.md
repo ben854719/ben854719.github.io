@@ -16,14 +16,6 @@ This project delivers a Bluetooth-enabled application for secure, remote activat
 
 [github](https://github.com/ben854719/DriveSmart-An-Autonomous-Mobility-Solution)
 
-### AI Gateway Evolution: Moving from Requests to Results via Intent:
-
-Description:
-
-An intent-driven AI assistant supports daily tasks, detects prompt vulnerabilities, and delivers multilingual diagnostic reports via a Node.js-Python backend and PyTorch-powered intent engine, achieving ≥90% intent accuracy, ≤500ms latency, ≥60% daily engagement, and ≥95% translation precision.
-
-[github](https://github.com/ben854719/AI-Gateway-Evolution-Moving-from-Requests-to-Results-via-Intent)
-
 ### Biometric Aware Fraud Risk Dashboard with Agentic AI Avatar:
 
 Description:
