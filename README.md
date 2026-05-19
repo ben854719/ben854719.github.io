@@ -64,6 +64,14 @@ Sentinel ThreatWall combines a fast C++ firewall with AI-based anomaly detection
 
 [github](https://github.com/ben854719/Sentinel-ThreatWall)
 
+### Mission Readiness Scoring System Simulation And Diagnostics:
+
+Description:
+
+This project delivers a spec‑driven Mission Readiness Intelligence & Diagnostics System with an agentic AI layer that adapts insights in real time and produces RS256‑signed, fully traceable recommendations. It models workload, timelines, and operational risk, achieving a 42% faster time‑to‑first‑action, 35% fewer repetitive tasks, 18% more policy‑consistent decisions, 24% fewer disputes, and a Fairness & Clarity lift from 61% to 79%.
+
+[github](https://github.com/ben854719/Mission-Readiness-Scoring-System-Simulation-And-Diagnostics)
+
 ## Continuous learning:
 
 I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), Generative AI, CLoud, Software and Cybersecurity. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
