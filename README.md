@@ -92,6 +92,10 @@ I have hands-on experience with various programming languages and technologies:
 
 I thrive on tackling complex challenges, driving innovation through collaboration, and pushing the limits of technology to create meaningful impact.
 
+## Anthropic Courses:
+
+- Introduction to agent skills [Anthropic, 2026]:
+
 ## AWS Cloud:
 
 - Introduction to Cloud 101 [AWS Educate, 2025]:
