@@ -96,6 +96,8 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - Introduction to agent skills [Anthropic, 2026]:
 
+- The course is introduction to the claude model such Agentic AI, Agentic AI Workflow, and debugging with the claude model.
+
 ## AWS Cloud:
 
 - Introduction to Cloud 101 [AWS Educate, 2025]:
