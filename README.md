@@ -96,7 +96,11 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - Introduction to agent skills [Anthropic, 2026]:
 
-- The course is introduction to the claude model such Agentic AI, Agentic AI Workflow, and debugging with the claude model.
+- The course provides an introduction to the Claude model, covering agentic AI concepts, agentic workflow design, and debugging techniques using Claude.
+
+- Introduction to Model Context Protocol [Anthropic, 2026]:
+
+- This course introduces the Model Context Protocol (MCP) for agentic AI, including core concepts in prompting, configuring Claude, and setting up the supporting server       environment.
 
 ## AWS Cloud:
 
