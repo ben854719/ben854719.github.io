@@ -64,6 +64,14 @@ This project delivers a spec‑driven Mission Readiness Intelligence & Diagnosti
 
 [github](https://github.com/ben854719/Mission-Readiness-Scoring-System-Simulation-And-Diagnostics)
 
+### Autonomous Security Orchestration Layer:
+
+Description:
+
+This application is a self-evolving defense model that analyzes behavioral telemetry and system diagnostics to create real-time, context-aware countermeasures. It deploys RS256-signed “digital antibodies” within seconds, using live metrics such as threat velocity, anomaly density, immune response time, and system stability. Early results show 47% lower dwell time, 39% faster containment, 28% higher behavioral detection accuracy, and 31% more policy-consistent responses.
+
+[github](https://github.com/ben854719/Autonomous-Security-Orchestration-Layer)
+
 ## Continuous learning:
 
 I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), Generative AI, CLoud, Software and Cybersecurity. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
