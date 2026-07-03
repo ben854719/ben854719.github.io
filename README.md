@@ -56,19 +56,11 @@ Sentinel ThreatWall combines a fast C++ firewall with AI-based anomaly detection
 
 [github](https://github.com/ben854719/Sentinel-ThreatWall)
 
-### Mission Readiness Scoring System Simulation And Diagnostics:
-
-Description:
-
-This application is a self evolving defense model that analyzes behavioral telemetry and system diagnostics to generate real time, context aware countermeasures. It deploys RS256 signed “digital antibodies” within seconds, supported by a browser based 3D operational dashboard built with JavaScript, HTML, and a dedicated 3D frontend layer for live system visualization. Early results show a 47% reduction in dwell time, 39% faster containment, 28% higher behavioral detection accuracy, and 31% more policy consistent responses.
-
-[github](https://github.com/ben854719/Mission-Readiness-Scoring-System-Simulation-And-Diagnostics)
-
 ### Autonomous Security Orchestration Layer:
 
 Description:
 
-This application is a self-evolving defense model that analyzes behavioral telemetry and system diagnostics to create real-time, context-aware countermeasures. It deploys RS256-signed “digital antibodies” within seconds, using live metrics such as threat velocity, anomaly density, immune response time, and system stability. Early results show 47% lower dwell time, 39% faster containment, 28% higher behavioral detection accuracy, and 31% more policy-consistent responses.
+This application is a self evolving defense model that analyzes behavioral telemetry and system diagnostics to generate real time, context aware countermeasures. It deploys RS256 signed “digital antibodies” within seconds, supported by a browser based 3D operational dashboard built with JavaScript, HTML, and a dedicated 3D frontend layer for live system visualization. Early results show a 47% reduction in dwell time, 39% faster containment, 28% higher behavioral detection accuracy, and 31% more policy consistent responses.
 
 [github](https://github.com/ben854719/Autonomous-Security-Orchestration-Layer)
 
