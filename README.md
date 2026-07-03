@@ -60,7 +60,7 @@ Sentinel ThreatWall combines a fast C++ firewall with AI-based anomaly detection
 
 Description:
 
-This project delivers a spec‑driven Mission Readiness Intelligence & Diagnostics System with an agentic AI layer that adapts insights in real time and produces RS256‑signed, fully traceable recommendations. It models workload, timelines, and operational risk, achieving a 42% faster time‑to‑first‑action, 35% fewer repetitive tasks, 18% more policy‑consistent decisions, 24% fewer disputes, and a Fairness & Clarity lift from 61% to 79%.
+This application is a self evolving defense model that analyzes behavioral telemetry and system diagnostics to generate real time, context aware countermeasures. It deploys RS256 signed “digital antibodies” within seconds, supported by a browser based 3D operational dashboard built with JavaScript, HTML, and a dedicated 3D frontend layer for live system visualization. Early results show a 47% reduction in dwell time, 39% faster containment, 28% higher behavioral detection accuracy, and 31% more policy consistent responses.
 
 [github](https://github.com/ben854719/Mission-Readiness-Scoring-System-Simulation-And-Diagnostics)
 
