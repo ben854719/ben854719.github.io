@@ -140,6 +140,12 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - Helped to  create a welcoming environment for attendees and supported community engagement.
 
+## Attend IT Industry Network Event:
+
+- CIS Summit 2026 (Ottawa, Ontario, May 2026)
+
+- Toronto Tech Week (Toronto, Ontario, June 2025)
+
 ## Video Content by Ben Nguyen on YouTube (Cybersecurity, AI, and Software):
 
 [YouTube](https://youtu.be/c8AyHIduIyI)
