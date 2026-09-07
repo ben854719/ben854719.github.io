@@ -116,6 +116,12 @@ I thrive on tackling complex challenges, driving innovation through collaboratio
 
 - The course focuses on the network of AWS cloud, Subnets, AWS Services, and Amazon VPC.
 
+## Cybersecurity:
+
+- Google Cybersecurity Certificate [2024]:
+
+- The course delivers a solid foundation in cybersecurity, network systems, Python programming, artificial intelligence, Linux administration, and SQL database management. 
+
 ## Dev.to (Articles and Projects):
 
 [dev.to](https://dev.to/benjamin_nguyen_8ca6ff360)
