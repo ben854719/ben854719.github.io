@@ -64,6 +64,14 @@ This application is a self evolving defense model that analyzes behavioral telem
 
 [github](https://github.com/ben854719/Autonomous-Security-Orchestration-Layer)
 
+## The Autonomous Merchant Growth Agent:
+
+Description:
+
+The Autonomous Merchant Growth Agent converts store signals into a 0–100 Store Health Score, applies forecasting and anomaly detection to identify bottlenecks and growth opportunities, and prioritizes high-impact actions such as pricing adjustments, product page improvements, inventory alerts, and experiment ideas.
+
+[github](https://github.com/ben854719/The-Autonomous-Merchant-Growth-Agent)
+
 ## Continuous learning:
 
 I am a lifelong learner with a passion for staying ahead of the curve. I have deepened my expertise in Cybersecurity through Coursera and Data Scientist: Natural Language Processing as part of Codecademy’s online program. My curiosity fuels a continuous pursuit of knowledge, especially in rapidly evolving fields such as Agentic AI, large language models (LLMs), Generative AI, CLoud, Software and Cybersecurity. I strive not only to understand cutting-edge technology, but to apply it meaningfully and responsibly.
