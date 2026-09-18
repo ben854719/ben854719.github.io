@@ -176,6 +176,8 @@ I led a team to assess flood impacts across Canada by utilising ESRI mapping for
 
 [LinkedIn](https://www.linkedin.com/in/ben-nguyen-77a44832/)
 
+[X](https://x.com/Bennj8c)
+
 Email: nguyenben85@gmail.com
 
 
