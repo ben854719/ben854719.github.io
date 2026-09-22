@@ -72,7 +72,7 @@ I am a lifelong learner with a passion for staying ahead of the curve. I have de
 
 Data Scientist (Freelance - UpWork) 
 
-February 2025 - September 2026:
+February 2025 - Present:
 
 •	Delivered AI, LLM, and Python solutions across multiple client projects, automating workflows and improving data processes.
 
